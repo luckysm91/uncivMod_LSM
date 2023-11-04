@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Lucas",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"uniqueTo": "Luqueros",
+		"replaces": "Chariot",
+		"movement": 4,
+		"strength": 60,
+		"rangedStrength": 40,
+		"range": 3,
+		"cost": 20,
+		"requiredTech": "",
+		"requiredResource": "",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": ""
 	}
 ]
