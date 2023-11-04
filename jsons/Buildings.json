@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Luquetar",
-		"replaces": "Circus maximus",
+		"replaces": "The Great Library",
 		"uniqueTo": "Luqueros",
 		"cost": 100,
 		"happiness": 20,
@@ -9,7 +9,7 @@
 		"science": 4,
 		"maintenance": 78,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
+		"requiredBuildingInAllCities": "Monument",
 		"requiredTech": "Pottery"
 	},
 	{
