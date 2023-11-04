@@ -3,7 +3,7 @@
 		"name": "Lucas",
 		"unitType": "Ranged",
 		"uniqueTo": "Luqueros",
-		"replaces": "Chariot",
+		"replaces": "Archer",
 		"movement": 4,
 		"strength": 60,
 		"rangedStrength": 40,
