@@ -9,7 +9,7 @@
 		"rangedStrength": 40,
 		"range": 3,
 		"cost": 20,
-		"requiredTech": "Poetry",
+		"requiredTech": "Pottery",
 		"promotions": ["Logistics","Accuracy I"],
 	}
 ]
